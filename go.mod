@@ -1,3 +1,3 @@
 module github.com/abeltay/go-kit
 
-go 1.24.0
+go 1.25.0
